@@ -1,18 +1,19 @@
-# «Finance monitor»
+# «Finance manager»
 
-## Used:
-- Vite + React
-- Tailwind CSS
+## _Used stack:_
+- [x] React
+- [x] Vite
+- [x] Tailwind CSS
 
-## Deployed:
-[Watch here](ADDED LINK)
+## _Deployed:_
+[Link to page](finance-manager-eta.vercel.app/)
 
-## Project setup:
+## _Project setup:_
 ```
 npm install / yarn
 ```
 
-## Compiles and minifies for production:
+## _Compiles and minifies for production:_
 ```
 npm run build /yarn run build
 ```
